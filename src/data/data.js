@@ -60,6 +60,11 @@ const getBatteryPackage = (batteryName, batteryDesc) => [
   {
     name: "Konektor baterie",
     desc: "Standardní konektor pro bezpečné a spolehlivé připojení baterie k motoru. Odolný a umožňuje snadné odpojení baterie.",
+    img: "/images/klice.png",
+  },
+  {
+    name: "Klíče",
+    desc: "Tyto klíče slouží pouze k uzamčení baterie k rámu kola, aby baterie držela pevně a nespadla na zem.",
     img: "/images/konektor.png",
   },
 ];
